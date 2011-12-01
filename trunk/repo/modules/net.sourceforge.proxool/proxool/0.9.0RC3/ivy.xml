@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/ivy-doc.xsl"?>
-
 <!--
     Copyright 2008 Archie L. Cobbs
 
@@ -21,7 +20,7 @@
 
     <info organisation="net.sourceforge.proxool" module="proxool" revision="0.9.0RC3" status="milestone" publication="20070109120000">
         <license name="BSD style" url="http://proxool.sourceforge.net/licence.html"/>
-        <ivyauthor name="$Id: ivy.xml 217 2008-05-06 20:25:47Z archie.cobbs $" url="http://code.google.com/p/ivyroundup/source/browse/trunk/src/modules/net.sourceforge.proxool/proxool/0.9.0RC3/"/>
+        <ivyauthor name="$Id$" url="http://code.google.com/p/ivyroundup/source/browse/unknown/src/modules/net.sourceforge.proxool/proxool/0.9.0RC3/"/>
         <repository pattern="http://ivyroundup.googlecode.com/svn/trunk/repo/modules/[organisation]/[module]/[revision]/ivy.xml" ivys="true" url="http://ivyroundup.googlecode.com/" name="ivyroundup"/>
         <description homepage="http://proxool.sourceforge.net/">
             <p>

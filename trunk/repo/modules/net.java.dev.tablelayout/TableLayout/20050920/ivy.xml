@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/ivy-doc.xsl"?>
-
 <!--
     Copyright 2009 Mark Thomas
 
@@ -21,7 +20,7 @@
 
     <info organisation="net.java.dev.tablelayout" module="TableLayout" revision="20050920" status="release" publication="20050920000412">
         <license name="The Clearthought Software License, Version 1.0" url="https://www.dev.java.net/files/documents/3495/59349/License.txt"/>
-        <ivyauthor name="$Id: ivy.xml 563 2009-03-17 10:21:58Z spatialguru.net $" url="http://code.google.com/p/ivyroundup/source/browse/trunk/src/modules/net.java.dev.tablelayout/TableLayout/20050920/"/>
+        <ivyauthor name="$Id$" url="http://code.google.com/p/ivyroundup/source/browse/unknown/src/modules/net.java.dev.tablelayout/TableLayout/20050920/"/>
         <repository pattern="http://ivyroundup.googlecode.com/svn/trunk/repo/modules/[organisation]/[module]/[revision]/ivy.xml" ivys="true" url="http://ivyroundup.googlecode.com/" name="ivyroundup"/>
         <description homepage="https://tablelayout.dev.java.net/">
          TableLayout is a totally free layout manager designed to make creating

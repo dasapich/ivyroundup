@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/ivy-doc.xsl"?>
-
 <!--
     Copyright 2010 Mark Thomas
 
@@ -21,7 +20,7 @@
 
     <info organisation="org.testng" module="testng" revision="5.10" status="release" publication="20080711201100">
         <license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
-        <ivyauthor name="$Id: ivy.xml 1231 2010-06-28 20:39:57Z spatialguru.net $" url="http://code.google.com/p/ivyroundup/source/browse/trunk/src/modules/org.testng/testng/5.10/"/>
+        <ivyauthor name="$Id$" url="http://code.google.com/p/ivyroundup/source/browse/unknown/src/modules/org.testng/testng/5.10/"/>
         <repository pattern="http://ivyroundup.googlecode.com/svn/trunk/repo/modules/[organisation]/[module]/[revision]/ivy.xml" ivys="true" url="http://ivyroundup.googlecode.com/" name="ivyroundup"/>
         <description homepage="http://www.testng.org/">
             TestNG is a testing framework designed to simply a broad range of

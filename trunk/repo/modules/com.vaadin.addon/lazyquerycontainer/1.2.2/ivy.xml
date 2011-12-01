@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/ivy-doc.xsl"?>
-
 <!--
     Copyright 2010 Archie L. Cobbs
 
@@ -21,7 +20,7 @@
 
     <info organisation="com.vaadin.addon" module="lazyquerycontainer" revision="1.2.2" status="release" publication="20100928120000">
         <license name="GNU Affero General Public License, Version 3.0" url="http://www.gnu.org/licenses/agpl-3.0.html"/>
-        <ivyauthor name="$Id: ivy.xml 1413 2010-12-08 21:58:46Z archie.cobbs $" url="http://code.google.com/p/ivyroundup/source/browse/trunk/src/modules/com.vaadin.addon/lazyquerycontainer/1.2.2/"/>
+        <ivyauthor name="$Id$" url="http://code.google.com/p/ivyroundup/source/browse/unknown/src/modules/com.vaadin.addon/lazyquerycontainer/1.2.2/"/>
         <repository pattern="http://ivyroundup.googlecode.com/svn/trunk/repo/modules/[organisation]/[module]/[revision]/ivy.xml" ivys="true" url="http://ivyroundup.googlecode.com/" name="ivyroundup"/>
         <description homepage="http://vaadin.com/directory#addon/lazy-query-container">
 

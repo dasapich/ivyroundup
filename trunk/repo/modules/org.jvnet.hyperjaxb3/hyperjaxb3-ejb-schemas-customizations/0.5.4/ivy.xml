@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/ivy-doc.xsl"?>
-
 <!--
     Copyright 2010 Roger Parkinson
 
@@ -21,7 +20,7 @@
 
     <info organisation="org.jvnet.hyperjaxb3" module="hyperjaxb3-ejb-schemas-customizations" revision="0.5.4" status="release" publication="20080808120000">
         <license name="The BSD Style License" url="http://confluence.highsource.org/display/HJ3/License"/>
-        <ivyauthor name="$Id: ivy.xml 1179 2010-04-19 15:09:26Z archie.cobbs $" url="http://code.google.com/p/ivyroundup/source/browse/trunk/src/modules/org.jvnet.hyperjaxb3/hyperjaxb3-ejb-schemas-customizations/0.5.4/"/>
+        <ivyauthor name="$Id$" url="http://code.google.com/p/ivyroundup/source/browse/unknown/src/modules/org.jvnet.hyperjaxb3/hyperjaxb3-ejb-schemas-customizations/0.5.4/"/>
         <repository pattern="http://ivyroundup.googlecode.com/svn/trunk/repo/modules/[organisation]/[module]/[revision]/ivy.xml" ivys="true" url="http://ivyroundup.googlecode.com/" name="ivyroundup"/>
         <description homepage="http://confluence.highsource.org/display/HJ3/Home">Persistence layer for JAXB objects.</description>
     </info>

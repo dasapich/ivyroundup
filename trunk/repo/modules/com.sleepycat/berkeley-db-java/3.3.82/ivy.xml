@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/ivy-doc.xsl"?>
-
 <!--
     Copyright 2008 Archie L. Cobbs
 
@@ -21,7 +20,7 @@
 
     <info organisation="com.sleepycat" module="berkeley-db-java" revision="3.3.82" status="release" publication="20090507120000">
         <license name="Oracle Berkeley DB Java Open Source License" url="http://www.oracle.com/technology/software/products/berkeley-db/htdocs/jeoslicense.html"/>
-        <ivyauthor name="$Id: ivy.xml 734 2009-05-26 21:01:07Z archie.cobbs $" url="http://code.google.com/p/ivyroundup/source/browse/trunk/src/modules/com.sleepycat/berkeley-db-java/3.3.82/"/>
+        <ivyauthor name="$Id$" url="http://code.google.com/p/ivyroundup/source/browse/unknown/src/modules/com.sleepycat/berkeley-db-java/3.3.82/"/>
         <repository pattern="http://ivyroundup.googlecode.com/svn/trunk/repo/modules/[organisation]/[module]/[revision]/ivy.xml" ivys="true" url="http://ivyroundup.googlecode.com/" name="ivyroundup"/>
         <description homepage="http://www.oracle.com/technology/products/berkeley-db/je/index.html">
 

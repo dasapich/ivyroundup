@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/ivy-doc.xsl"?>
-
 <!--
     Copyright 2009 Mark Thomas
 
@@ -21,7 +20,7 @@
 
     <info organisation="net.fckeditor" module="fckeditor" revision="2.4.1" status="release" publication="20081013095400">
         <license name="LGPL, Version 2.1" url="http://www.gnu.org/licenses/lgpl.html"/>
-        <ivyauthor name="$Id: ivy.xml 689 2009-04-28 19:05:07Z archie.cobbs $" url="http://code.google.com/p/ivyroundup/source/browse/trunk/src/modules/net.fckeditor/fckeditor/2.4.1/"/>
+        <ivyauthor name="$Id$" url="http://code.google.com/p/ivyroundup/source/browse/unknown/src/modules/net.fckeditor/fckeditor/2.4.1/"/>
         <repository pattern="http://ivyroundup.googlecode.com/svn/trunk/repo/modules/[organisation]/[module]/[revision]/ivy.xml" ivys="true" url="http://ivyroundup.googlecode.com/" name="ivyroundup"/>
         <description homepage="http://www.fckeditor.net/">An HTML text editor
         that brings to the web much of the power of desktop editors like MS Word. It's

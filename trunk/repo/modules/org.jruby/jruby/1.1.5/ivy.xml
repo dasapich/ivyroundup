@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/ivy-doc.xsl"?>
-
 <!--
     Copyright 2008 Phil H. Smith
 
@@ -21,7 +20,7 @@
 
     <info organisation="org.jruby" module="jruby" revision="1.1.5" status="release" publication="20081202120000">
         <license name="Common Public License, Version 1.0" url="http://opensource.org/licenses/cpl/1.0.php"/><license name="GNU Public License, Version 2.0" url="http://www.gnu.org/licenses/old-licenses/gpl-2.0.html"/><license name="GNU Lesser General Public License, Version 2.1" url="http://www.gnu.org/licenses/lgpl-2.1.html"/>
-        <ivyauthor name="$Id: ivy.xml 317 2008-12-08 15:57:39Z archie.cobbs $" url="http://code.google.com/p/ivyroundup/source/browse/trunk/src/modules/org.jruby/jruby/1.1.5/"/>
+        <ivyauthor name="$Id$" url="http://code.google.com/p/ivyroundup/source/browse/unknown/src/modules/org.jruby/jruby/1.1.5/"/>
         <repository pattern="http://ivyroundup.googlecode.com/svn/trunk/repo/modules/[organisation]/[module]/[revision]/ivy.xml" ivys="true" url="http://ivyroundup.googlecode.com/" name="ivyroundup"/>
         <description homepage="http://www.jruby.com/">JRuby is an 100% pure-Java implementation of the Ruby programming language.</description>
     </info>

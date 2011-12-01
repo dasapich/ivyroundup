@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/ivy-doc.xsl"?>
-
 <!--
     Copyright 2009 Mark Thomas
 
@@ -21,7 +20,7 @@
 
     <info organisation="javax.management" module="j2ee_management" revision="1.0" status="release" publication="20030418140516">
         <license name="Sun Microsystems, Inc. Binary Code License Agreement" url="http://www.sun.com/"/>
-        <ivyauthor name="$Id: ivy.xml 603 2009-03-23 18:02:51Z spatialguru.net $" url="http://code.google.com/p/ivyroundup/source/browse/trunk/src/modules/javax.management/j2ee_management/1.0/"/>
+        <ivyauthor name="$Id$" url="http://code.google.com/p/ivyroundup/source/browse/unknown/src/modules/javax.management/j2ee_management/1.0/"/>
         <repository pattern="http://ivyroundup.googlecode.com/svn/trunk/repo/modules/[organisation]/[module]/[revision]/ivy.xml" ivys="true" url="http://ivyroundup.googlecode.com/" name="ivyroundup"/>
         <description homepage="http://java.sun.com/j2ee/tools/management/">
             <p>

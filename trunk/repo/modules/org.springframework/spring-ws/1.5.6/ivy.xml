@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/ivy-doc.xsl"?>
-
 <!--
     Copyright 2009 Mark Thomas <spatialguru.net@gmail.com>
 
@@ -21,7 +20,7 @@
 
     <info organisation="org.springframework" module="spring-ws" revision="1.5.6" status="release" publication="20090128151000">
         <license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
-        <ivyauthor name="$Id: ivy.xml 985 2009-12-09 16:15:54Z archie.cobbs $" url="http://code.google.com/p/ivyroundup/source/browse/trunk/src/modules/org.springframework/spring-ws/1.5.6/"/>
+        <ivyauthor name="$Id$" url="http://code.google.com/p/ivyroundup/source/browse/unknown/src/modules/org.springframework/spring-ws/1.5.6/"/>
         <repository pattern="http://ivyroundup.googlecode.com/svn/trunk/repo/modules/[organisation]/[module]/[revision]/ivy.xml" ivys="true" url="http://ivyroundup.googlecode.com/" name="ivyroundup"/>
         <description homepage="http://static.springframework.org/spring-ws/sites/1.5/">
         Spring Web Services is a product of the Spring  community focused on creating

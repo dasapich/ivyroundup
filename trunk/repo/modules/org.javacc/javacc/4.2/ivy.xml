@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/ivy-doc.xsl"?>
-
 <!--
     Copyright 2009 Vladimir Ritz Bossicard
 
@@ -21,7 +20,7 @@
 
     <info organisation="org.javacc" module="javacc" revision="4.2" status="release" publication="20081121120000">
         <license name="BSD License" url="http://www.opensource.org/licenses/bsd-license.php"/>
-        <ivyauthor name="$Id: ivy.xml 464 2009-02-16 03:09:03Z spatialguru.net $" url="http://code.google.com/p/ivyroundup/source/browse/trunk/src/modules/org.javacc/javacc/4.2/"/>
+        <ivyauthor name="$Id$" url="http://code.google.com/p/ivyroundup/source/browse/unknown/src/modules/org.javacc/javacc/4.2/"/>
         <repository pattern="http://ivyroundup.googlecode.com/svn/trunk/repo/modules/[organisation]/[module]/[revision]/ivy.xml" ivys="true" url="http://ivyroundup.googlecode.com/" name="ivyroundup"/>
         <description homepage="https://javacc.dev.java.net/">
             Java Compiler Compiler [tm] (JavaCC [tm]) is the most popular parser generator for use with 

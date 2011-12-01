@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/ivy-doc.xsl"?>
-
 <!--
     Copyright 2009 Mark Thomas
 
@@ -21,7 +20,7 @@
 
     <info organisation="javax.persistence" module="persistence-api" revision="1.0" status="release" publication="20060717110900">
         <license name="Common Development and Distribution License (CDDL) v1.0" url="http://www.sun.com/cddl/cddl.html"/>
-        <ivyauthor name="$Id: ivy.xml 1297 2010-09-08 16:27:00Z spatialguru.net $" url="http://code.google.com/p/ivyroundup/source/browse/trunk/src/modules/javax.persistence/persistence-api/1.0/"/>
+        <ivyauthor name="$Id$" url="http://code.google.com/p/ivyroundup/source/browse/unknown/src/modules/javax.persistence/persistence-api/1.0/"/>
         <repository pattern="http://ivyroundup.googlecode.com/svn/trunk/repo/modules/[organisation]/[module]/[revision]/ivy.xml" ivys="true" url="http://ivyroundup.googlecode.com/" name="ivyroundup"/>
         <description homepage="http://www.oracle.com/technetwork/articles/javaee/jpa-137156.html">
             <p>

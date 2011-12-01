@@ -16,7 +16,7 @@
     under the License.
 -->
 
-<!-- $Id: modules.xsl 1291 2010-08-31 21:37:10Z archie.cobbs $ -->
+<!-- $Id$ -->
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <xsl:template match="/modules">

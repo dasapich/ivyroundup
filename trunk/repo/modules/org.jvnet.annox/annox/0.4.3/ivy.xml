@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/ivy-doc.xsl"?>
-
 <!--
     Copyright 2010 Roger Parkinson
 
@@ -21,7 +20,7 @@
 
     <info organisation="org.jvnet.annox" module="annox" revision="0.4.3" status="release" publication="20080808120000">
         <license name="The BSD Style License" url="http://confluence.highsource.org/display/ANX/License"/>
-        <ivyauthor name="$Id: ivy.xml 1179 2010-04-19 15:09:26Z archie.cobbs $" url="http://code.google.com/p/ivyroundup/source/browse/trunk/src/modules/org.jvnet.annox/annox/0.4.3/"/>
+        <ivyauthor name="$Id$" url="http://code.google.com/p/ivyroundup/source/browse/unknown/src/modules/org.jvnet.annox/annox/0.4.3/"/>
         <repository pattern="http://ivyroundup.googlecode.com/svn/trunk/repo/modules/[organisation]/[module]/[revision]/ivy.xml" ivys="true" url="http://ivyroundup.googlecode.com/" name="ivyroundup"/>
         <description homepage="http://confluence.highsource.org/display/ANX/Home">Allows you to read arbitrary Java annotations from XML resources.</description>
     </info>

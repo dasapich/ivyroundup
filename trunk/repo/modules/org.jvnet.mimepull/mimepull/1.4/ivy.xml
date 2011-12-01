@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../../../xsl/ivy-doc.xsl"?>
-
 <!--
     Copyright 2011 Roger Parkinson
 
@@ -21,7 +20,7 @@
 
     <info organisation="org.jvnet.mimepull" module="mimepull" revision="1.4" status="release" publication="20110804024207">
         <license name="COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0" url="http://www.opensource.org/licenses/cddl1.php"/><license name="GPLv2 with classpath exception" url="http://www.gnu.org/software/classpath/license.html"/>
-        <ivyauthor name="$Id: ivy.xml 1805 2011-11-25 16:57:52Z archie.cobbs $" url="http://code.google.com/p/ivyroundup/source/browse/trunk/src/modules/org.jvnet.mimepull/mimepull/1.4/"/>
+        <ivyauthor name="$Id$" url="http://code.google.com/p/ivyroundup/source/browse/unknown/src/modules/org.jvnet.mimepull/mimepull/1.4/"/>
         <repository pattern="http://ivyroundup.googlecode.com/svn/trunk/repo/modules/[organisation]/[module]/[revision]/ivy.xml" ivys="true" url="http://ivyroundup.googlecode.com/" name="ivyroundup"/>
         <description homepage="">
                 Provides a streaming API to access attachments parts in a MIME message.
