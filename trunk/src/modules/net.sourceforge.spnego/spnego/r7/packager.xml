@@ -25,7 +25,7 @@
     <resource url="http://sourceforge.net/projects/${name}/files/${archive}.jar/download" 
       tofile="artifacts/jars/${name}.jar" sha1="d8dcfaa69ab970156b6bd990c029f5cb447771f0"/>
     <resource url="http://sourceforge.net/projects/${name}/files/builds/build-${revision}.zip/download" 
-      dest="archive/${archive}" type="zip" sha1="d56f785b8d943ca187bfcc0356a56e32d83b689c"/>
+      filename="build-${revision}.zip" dest="archive/${archive}" type="zip" sha1="d56f785b8d943ca187bfcc0356a56e32d83b689c"/>
 
     <build>
         <!-- jar -->
